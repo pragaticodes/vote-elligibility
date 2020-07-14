@@ -2,7 +2,7 @@
 #include<iostream>
 int main(){
 	
-	char  age;
+	int  age;
 	std::cout<<"enter your age:"<<age;
 	std::cin>>age;
 	if (age>=18){
